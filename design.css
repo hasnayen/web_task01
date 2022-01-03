@@ -5,15 +5,16 @@ small{
     background-color: deepskyblue;
     border: 8px solid blue;
     border-radius: 15px;
-    margin: 40px 10px;
+    margin: 50%;
     padding: 20px 40px;
     width: 50%;
     margin: 0 auto;
-    m
 }
+
 .name{
     color: firebrick;
 }
+
 h1{
     color: cornflowerblue;
     margin-left: 38%;
