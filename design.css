@@ -3,7 +3,7 @@ small{
 }
 .blog{
     background-color: deepskyblue;
-    border: 8px solid blue;
+    border: 8px solid rgba(210, 210, 238, 0.945);
     border-radius: 15px;
     margin: 50%;
     padding: 20px 40px;
@@ -22,12 +22,13 @@ h1{
     
 }
 .blog p{
-      color: rgba(153, 50, 204, 0.616);
+      color: rgb(247, 242, 250);
       font-size: large;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 ul{
+    color: aliceblue;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 img{  
