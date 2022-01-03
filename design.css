@@ -22,7 +22,7 @@ h1{
     
 }
 .blog p{
-      color: darkorchid;
+      color: rgba(153, 50, 204, 0.616);
       font-size: large;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -30,3 +30,10 @@ h1{
 ul{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+img{  
+    display: block;  
+margin-left: auto;  
+margin-right: auto;  
+border: 8px ridge rgb(176, 176, 199);  
+padding: 5px;  
+    }
