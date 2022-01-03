@@ -1,0 +1,30 @@
+small{
+    color: rgba(139, 0, 0, 0.527);
+}
+.blog{
+    background-color: deepskyblue;
+    border: 8px solid blue;
+    border-radius: 15px;
+    margin: 40px 10px;
+    padding: 20px 40px;
+    width: 50%;
+    margin: 0 auto;
+    m
+}
+.name{
+    color: firebrick;
+}
+h1{
+    color: cornflowerblue;
+    margin-left: 38%;
+    
+}
+.blog p{
+      color: darkorchid;
+      font-size: large;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+ul{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
